@@ -15,5 +15,5 @@ router.get("/contato", (req, res)=>{
 app.use(router)
 
 app.listen(8080, ()=>{
-    console.log("Server ATIVASSO!")
+    console.log("Server online!")
 })
